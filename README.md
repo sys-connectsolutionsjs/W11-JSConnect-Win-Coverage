@@ -1,3 +1,11 @@
+# ⚠️ REPO ARCHIVADO — ahora todo vive en [`JSConnect-Win-Coverage`](https://github.com/sys-connectsolutionsjs/JSConnect-Win-Coverage)
+
+Desde el 2026-10-07 este repo (variante Windows 11) se **unificó** con el repo oficial,
+que sirve para Windows 10 y 11. No se actualiza más. Los `.exe` de este repo se
+actualizan solos al Release `v2026.10.07`, que ya consulta el repo oficial.
+
+---
+
 # JSConnect-Win-Coverage
 
 Aplicación de escritorio para validar en instantes cobertura y score crediticio de clientes en un call center de un proveedor de internet.
